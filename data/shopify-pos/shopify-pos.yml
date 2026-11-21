@@ -1,0 +1,12 @@
+name: "Shopify POS"
+description: "Shopify POS is a retail point-of-sale system that integrates with Shopify e-commerce. It is for merchants using Shopify plans and requires a paid subscription; hardware and payment processing are extra."
+source_url: "https://www.shopify.com/pos"
+category: "Retail POS"
+tags:
+  - "paid"
+  - "api"
+  - "e-commerce"
+  - "inventory"
+icon_url: "https://icons.duckduckgo.com/ip3/www.shopify.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.shopify.com/pos>\n"
+updated_at: "2026-11-21 19:41"

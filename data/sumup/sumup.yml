@@ -1,0 +1,12 @@
+name: "SumUp"
+description: "SumUp is a mobile payment and point-of-sale solution for small businesses. The app is free; costs come from card readers and transaction processing fees."
+source_url: "https://sumup.com/"
+category: "Payment-Integrated POS"
+tags:
+  - "freemium"
+  - "payment-integrated"
+  - "mobile"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/sumup.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://sumup.com/>\n"
+updated_at: "2026-11-21 19:41"

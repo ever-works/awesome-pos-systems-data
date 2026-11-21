@@ -1,0 +1,13 @@
+name: "ERPNext"
+description: "ERPNext is an open-source ERP suite with a POS module for retail businesses. It can be self-hosted under the GPL or used via Frappe Cloud with a subscription."
+source_url: "https://erpnext.com/"
+category: "Open-Source POS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "erp"
+  - "retail"
+icon_url: "https://icons.duckduckgo.com/ip3/erpnext.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://erpnext.com/>\n- Repository: <https://github.com/frappe/erpnext>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 19:41"

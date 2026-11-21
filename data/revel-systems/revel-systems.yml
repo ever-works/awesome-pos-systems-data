@@ -1,0 +1,12 @@
+name: "Revel Systems"
+description: "Revel Systems is a cloud-based POS for restaurants and retail. It provides enterprise-grade features such as inventory, employee management, and API integrations under a paid subscription."
+source_url: "https://www.revelsystems.com/"
+category: "Restaurant POS"
+tags:
+  - "paid"
+  - "api"
+  - "enterprise"
+  - "restaurant-management"
+icon_url: "https://icons.duckduckgo.com/ip3/www.revelsystems.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.revelsystems.com/>\n"
+updated_at: "2026-11-21 19:41"

@@ -1,0 +1,12 @@
+name: "Zettle"
+description: "Zettle by PayPal is a mobile POS and card reader solution for small sellers. The app is free, with revenue from hardware sales and transaction fees."
+source_url: "https://www.zettle.com/"
+category: "Payment-Integrated POS"
+tags:
+  - "freemium"
+  - "payment-integrated"
+  - "mobile"
+  - "paypal"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zettle.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.zettle.com/>\n"
+updated_at: "2026-11-21 19:41"

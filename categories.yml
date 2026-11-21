@@ -1,0 +1,12 @@
+- id: retail-pos
+  name: "Retail POS"
+- id: restaurant-pos
+  name: "Restaurant POS"
+- id: mobile-and-tablet-pos
+  name: "Mobile & Tablet POS"
+- id: open-source-pos
+  name: "Open-Source POS"
+- id: pos-hardware
+  name: "POS Hardware"
+- id: payment-integrated-pos
+  name: "Payment-Integrated POS"

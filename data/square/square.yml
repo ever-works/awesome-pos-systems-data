@@ -1,0 +1,12 @@
+name: "Square"
+description: "Square is a point-of-sale and payment processing platform for small and midsize businesses. The POS app is free; users pay per-transaction processing fees and optional hardware or software upgrade costs."
+source_url: "https://squareup.com/"
+category: "Payment-Integrated POS"
+tags:
+  - "freemium"
+  - "payment-integrated"
+  - "api"
+  - "small-business"
+icon_url: "https://icons.duckduckgo.com/ip3/squareup.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://squareup.com/>\n"
+updated_at: "2026-11-21 19:41"

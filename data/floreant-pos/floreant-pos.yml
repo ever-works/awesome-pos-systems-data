@@ -1,0 +1,12 @@
+name: "Floreant POS"
+description: "Floreant POS is an open-source restaurant point-of-sale application for Windows and Linux. It is self-hosted, free to use, and licensed under the GPL."
+source_url: "https://floreantpos.org/"
+category: "Open-Source POS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "gpl"
+  - "restaurant"
+icon_url: "https://icons.duckduckgo.com/ip3/floreantpos.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://floreantpos.org/>\n\nLicense: GPL.\n"
+updated_at: "2026-11-21 19:41"

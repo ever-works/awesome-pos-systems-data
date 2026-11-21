@@ -1,0 +1,13 @@
+name: "NCR Aloha"
+description: "NCR Aloha is a restaurant POS platform from NCR Voyix for enterprise hospitality. It supports cloud and on-premise deployment with paid licensing and API access."
+source_url: "https://www.ncrvoyix.com/"
+category: "Restaurant POS"
+tags:
+  - "enterprise"
+  - "paid"
+  - "api"
+  - "on-premise"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/www.ncrvoyix.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.ncrvoyix.com/>\n"
+updated_at: "2026-11-21 19:41"

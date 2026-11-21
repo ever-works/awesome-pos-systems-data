@@ -1,0 +1,12 @@
+name: "KORONA POS"
+description: "KORONA POS is a cloud-based retail point-of-sale system for small and midsize merchants. It includes inventory, reporting, and API integrations with a paid subscription model."
+source_url: "https://www.koronapos.com/"
+category: "Retail POS"
+tags:
+  - "paid"
+  - "api"
+  - "cloud"
+  - "retail"
+icon_url: "https://icons.duckduckgo.com/ip3/www.koronapos.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.koronapos.com/>\n"
+updated_at: "2026-11-21 19:41"

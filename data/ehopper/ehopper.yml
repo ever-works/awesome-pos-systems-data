@@ -1,0 +1,12 @@
+name: "eHopper"
+description: "eHopper is a cloud-based POS for small retail and service businesses on mobile and tablet. It offers a free plan with paid upgrades for advanced features and multiple locations."
+source_url: "https://ehopper.com/"
+category: "Mobile & Tablet POS"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "cloud"
+  - "small-business"
+icon_url: "https://icons.duckduckgo.com/ip3/ehopper.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://ehopper.com/>\n"
+updated_at: "2026-11-21 19:41"

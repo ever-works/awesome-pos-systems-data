@@ -1,0 +1,50 @@
+- id: freemium
+  name: "Freemium"
+- id: payment-integrated
+  name: "Payment-Integrated"
+- id: api
+  name: "API"
+- id: small-business
+  name: "Small Business"
+- id: paid
+  name: "Paid"
+- id: e-commerce
+  name: "E-commerce"
+- id: inventory
+  name: "Inventory"
+- id: hardware
+  name: "Hardware"
+- id: app-market
+  name: "App Market"
+- id: enterprise
+  name: "Enterprise"
+- id: restaurant-management
+  name: "Restaurant Management"
+- id: kitchen-display
+  name: "Kitchen Display"
+- id: mobile
+  name: "Mobile"
+- id: paypal
+  name: "PayPal"
+- id: free-plan
+  name: "Free Plan"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: erp
+  name: "ERP"
+- id: gpl
+  name: "GPL"
+- id: restaurant
+  name: "Restaurant"
+- id: ipad
+  name: "iPad"
+- id: cloud
+  name: "Cloud"
+- id: retail
+  name: "Retail"
+- id: on-premise
+  name: "On-Premise"
+- id: windows
+  name: "Windows"

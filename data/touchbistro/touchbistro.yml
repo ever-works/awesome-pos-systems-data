@@ -1,0 +1,12 @@
+name: "TouchBistro"
+description: "TouchBistro is an iPad-based restaurant POS system for foodservice businesses. It offers tableside ordering, menu management, and payments through a paid subscription."
+source_url: "https://touchbistro.com/"
+category: "Restaurant POS"
+tags:
+  - "paid"
+  - "api"
+  - "ipad"
+  - "restaurant-management"
+icon_url: "https://icons.duckduckgo.com/ip3/touchbistro.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://touchbistro.com/>\n"
+updated_at: "2026-11-21 19:41"

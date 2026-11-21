@@ -1,0 +1,12 @@
+name: "Clover"
+description: "Clover is a POS hardware and software system for retail and restaurant businesses. It offers countertop and mobile terminals with monthly software fees and an app marketplace."
+source_url: "https://www.clover.com/"
+category: "POS Hardware"
+tags:
+  - "paid"
+  - "hardware"
+  - "api"
+  - "app-market"
+icon_url: "https://icons.duckduckgo.com/ip3/www.clover.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.clover.com/>\n"
+updated_at: "2026-11-21 19:41"

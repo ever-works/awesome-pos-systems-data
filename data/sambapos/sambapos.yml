@@ -1,0 +1,12 @@
+name: "SambaPOS"
+description: "SambaPOS is a Windows-based point-of-sale system for restaurants and hospitality. It provides a free edition with optional paid licenses for advanced modules and API access."
+source_url: "https://sambapos.com/"
+category: "Restaurant POS"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "windows"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/sambapos.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://sambapos.com/>\n"
+updated_at: "2026-11-21 19:41"

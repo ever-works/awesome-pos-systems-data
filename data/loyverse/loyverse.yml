@@ -1,0 +1,12 @@
+name: "Loyverse"
+description: "Loyverse is a free POS app for small retail and foodservice businesses on mobile and tablet. Core features are free, with paid add-ons for advanced reporting and multi-store management."
+source_url: "https://www.loyverse.com/"
+category: "Mobile & Tablet POS"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "small-business"
+icon_url: "https://icons.duckduckgo.com/ip3/www.loyverse.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.loyverse.com/>\n"
+updated_at: "2026-11-21 19:41"
