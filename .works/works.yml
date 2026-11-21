@@ -1,18 +1,21 @@
-company_name: "Awesome POS Systems"
+company_name: Awesome POS Systems
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome POS Systems"
-initial_prompt: "A curated directory of point-of-sale systems for retail and restaurants, including open-source POS. Include products such as Square, Shopify POS, Clover, Lightspeed, Toast, SumUp, Zettle, Revel Systems, Loyverse, Odoo Point of Sale, uniCenta oPOS, Floreant POS, plus other notable commercial and open-source options. Categories: Retail POS, Restaurant POS, Mobile & Tablet POS, Open-Source POS, POS Hardware, Payment-Integrated POS. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-pos-systems-website"
-company_website: "https://pos-systems.ever.works"
+name: Awesome POS Systems
+initial_prompt: "A curated directory of point-of-sale systems for retail and
+  restaurants, including open-source POS. Include products such as Square,
+  Shopify POS, Clover, Lightspeed, Toast, SumUp, Zettle, Revel Systems,
+  Loyverse, Odoo Point of Sale, uniCenta oPOS, Floreant POS, plus other notable
+  commercial and open-source options. Categories: Retail POS, Restaurant POS,
+  Mobile & Tablet POS, Open-Source POS, POS Hardware, Payment-Integrated POS.
+  For every item capture the official website, a short factual description,
+  pricing model (free, freemium, paid, open source), deployment (cloud or
+  self-hosted), key features and integrations."
+website_repo: ever-works/awesome-pos-systems-website
+company_website: https://pos-systems.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +32,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull
