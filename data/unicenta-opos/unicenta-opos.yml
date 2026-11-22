@@ -1,0 +1,57 @@
+name: uniCenta oPOS
+description: uniCenta oPOS is an open-source point of sale software fork of
+  Openbravo POS, designed for retail and hospitality businesses. It is released
+  under the GPL license and supports self-hosted deployment with features for
+  inventory management, sales tracking, and multi-store operations.
+source_url: https://unicenta.org/
+category: Open-Source POS
+tags:
+  - open-source
+  - self-hosted
+  - GPL
+  - retail
+featured: false
+markdown: >-
+  ## Overview
+
+
+  uniCenta oPOS is an open-source point of sale application forked from
+  Openbravo POS. It is designed for retail and hospitality environments and can
+  be deployed on-premise.
+
+
+  ## Features
+
+
+  - Point of sale transactions
+
+  - Inventory management
+
+  - Customer and supplier management
+
+  - Multi-store support
+
+  - Reporting and analytics
+
+  - Receipt and barcode printing
+
+
+  ## Deployment
+
+
+  Self-hosted / On-premise
+
+
+  ## Pricing
+
+
+  Free and open-source under the GNU General Public License (GPL).
+
+
+  ## Repository
+
+
+  Source code available on GitHub.
+brand: uniCenta
+images: []
+updated_at: 2026-11-22 03:46

@@ -1,0 +1,52 @@
+name: Ingenico Terminal
+description: Ingenico provides point-of-sale payment terminals and
+  payment-integrated POS hardware for retail and hospitality businesses. It is a
+  commercial paid hardware and payment processing solution supporting credit
+  card, contactless, and mobile payments.
+source_url: https://www.ingenico.com/
+category: POS Hardware
+tags:
+  - paid
+  - hardware
+  - payment-integrated
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Ingenico Group (now part of Worldline) manufactures point-of-sale payment
+  terminals and payment processing hardware used by merchants worldwide for
+  in-person transactions.
+
+
+  ## Features
+
+
+  - Credit and debit card terminals
+
+  - Contactless and NFC payments
+
+  - Mobile payment acceptance
+
+  - EMV chip card support
+
+  - PIN entry and signature capture
+
+  - Ethernet, Wi-Fi, and 4G connectivity
+
+
+  ## Deployment
+
+
+  Hardware terminals
+
+
+  ## Pricing
+
+
+  Commercial paid hardware and payment processing services; pricing varies by
+  region and volume.
+brand: Ingenico
+images: []
+updated_at: 2026-11-22 03:46

@@ -1,0 +1,43 @@
+name: TailPOS
+description: TailPOS an Offline First Open Source POS for ERPNext using
+  JavaScript. Designed for offline-first retail operations with ERPNext
+  integration.
+source_url: https://github.com/tailpos/tailpos
+category: Open-Source POS
+tags:
+  - open-source
+  - erpnext
+  - javascript
+  - offline-first
+featured: false
+markdown: >
+  ## Overview
+
+
+  TailPOS is an offline-first open source Point of Sale system for ERPNext,
+  built with JavaScript.
+
+
+  ## Features
+
+
+  - Offline-first POS
+
+  - ERPNext integration
+
+  - Built with JavaScript
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+brand: null
+images: []
+updated_at: 2026-11-22 03:46

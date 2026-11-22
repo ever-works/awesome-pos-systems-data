@@ -1,0 +1,44 @@
+name: POS Awesome
+description: POS Awesome is an open-source Point of Sale for Erpnext using
+  Vue.js and Vuetify. Open-source POS module for ERPNext with Vue.js frontend.
+source_url: https://github.com/pos-awesome/pos-awesome
+category: Open-Source POS
+tags:
+  - open-source
+  - erpnext
+  - vue.js
+  - vuetify
+featured: false
+markdown: >
+  ## Overview
+
+
+  POS Awesome is an open-source Point of Sale system for ERPNext, built with
+  Vue.js and Vuetify.
+
+
+  ## Features
+
+
+  - Point of sale for ERPNext
+
+  - Vue.js frontend
+
+  - Vuetify UI framework
+
+  - Open-source
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+brand: null
+images: []
+updated_at: 2026-11-22 03:46

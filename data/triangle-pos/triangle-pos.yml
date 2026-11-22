@@ -1,0 +1,47 @@
+name: Triangle POS
+description: Triangle POS is an open source Inventory Management with POS
+  System. Developed with Laravel 10, Bootstrap 4 & Livewire 3. It's completely
+  free to use.
+source_url: https://github.com/triangle-pos/pos
+category: Open-Source POS
+tags:
+  - open-source
+  - laravel
+  - livewire
+  - inventory-management
+featured: false
+markdown: >
+  ## Overview
+
+
+  Triangle POS is an open source Inventory Management system with POS
+  functionality, built with Laravel 10, Bootstrap 4, and Livewire 3.
+
+
+  ## Features
+
+
+  - Inventory management
+
+  - Point of sale system
+
+  - Built with Laravel 10 (PHP)
+
+  - Bootstrap 4 frontend
+
+  - Livewire 3 for reactive interfaces
+
+
+  ## Pricing
+
+
+  Completely free to use.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+brand: null
+images: []
+updated_at: 2026-11-22 03:46

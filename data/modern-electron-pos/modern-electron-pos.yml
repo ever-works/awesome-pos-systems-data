@@ -1,0 +1,48 @@
+name: Modern Electron POS
+description: Modern Electron Point of Sale — React till, Express + SQLite API,
+  LAN multi-terminal, catalog/photos, and Windows installer. Open-source desktop
+  POS application for retail environments.
+source_url: https://github.com/electron-pos/pos
+category: Open-Source POS
+tags:
+  - open-source
+  - electron
+  - react
+  - typescript
+  - desktop
+featured: false
+markdown: >
+  ## Overview
+
+
+  Modern Electron Point of Sale built with React, Express, and SQLite for LAN
+  multi-terminal retail operations.
+
+
+  ## Features
+
+
+  - React-based till interface
+
+  - Express + SQLite API backend
+
+  - LAN multi-terminal support
+
+  - Product catalog with photos
+
+  - Windows installer
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted desktop application.
+brand: null
+images: []
+updated_at: 2026-11-22 03:46

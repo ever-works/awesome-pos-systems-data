@@ -1,0 +1,60 @@
+name: Open Source Point of Sale
+description: "Open Source Point of Sale is a web-based point of sale application
+  written in PHP using the CodeIgniter framework. It uses MySQL as the data back
+  end and features a Bootstrap 3 based user interface for retail sales and
+  inventory management. Pricing model: free and open source (MIT License)."
+source_url: https://opensourcepos.org/
+category: Open-Source POS
+tags:
+  - open-source
+  - self-hosted
+  - php
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Open Source Point of Sale (osPOS) is a free, open-source, web-based point of
+  sale application designed for small to medium retail businesses. It is written
+  in PHP using the CodeIgniter framework and uses MySQL as its database back
+  end.
+
+
+  ## Features
+
+
+  - Web-based point of sale interface built with Bootstrap 3
+
+  - Sales processing and transaction recording
+
+  - Inventory management and stock tracking
+
+  - Customer records and management
+
+  - Product catalog with categories
+
+  - Reporting for sales and inventory
+
+  - PHP / CodeIgniter back end with MySQL database
+
+  - Self-hosted deployment
+
+
+  ## Pricing
+
+
+  Free and open source under the MIT License.
+
+
+  ## Deployment
+
+
+  Self-hosted (PHP + MySQL).
+
+
+  ## Repository
+
+
+  https://github.com/opensourcepos/opensourcepos
+brand: Open Source Point of Sale
+updated_at: 2026-11-22 03:46

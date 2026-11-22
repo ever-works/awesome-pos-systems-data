@@ -1,0 +1,40 @@
+name: Web Based Point Of Sale Laravel
+description: Web Based Point Of Sale(POS) Application using Laravel. Open-source
+  PHP web application for retail point-of-sale operations.
+source_url: https://github.com/web-pos/laravel-pos
+category: Open-Source POS
+tags:
+  - open-source
+  - laravel
+  - php
+  - web-based
+featured: false
+markdown: >
+  ## Overview
+
+
+  Web Based Point Of Sale(POS) Application built with Laravel for retail
+  operations.
+
+
+  ## Features
+
+
+  - Web-based point of sale
+
+  - Built with Laravel (PHP)
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+brand: null
+images: []
+updated_at: 2026-11-22 03:46

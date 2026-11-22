@@ -1,0 +1,48 @@
+name: URY ERP Restaurant Management
+description: URY is a free and open-source (FOSS) restaurant management system
+  built on top of ERPNext. It provides restaurant-specific operations on an
+  ERPNext foundation, with TypeScript as the primary development language. The
+  project is actively maintained, with its most recent update in November 2026.
+source_url: https://github.com/ury-erp/ury
+category: Open-Source POS
+tags:
+  - Open Source
+  - Self-Hosted
+  - ERPNext
+  - Restaurant POS
+  - TypeScript
+featured: false
+markdown: >-
+  ## Overview
+
+
+  URY is a FOSS restaurant management system super powered by ERPNext. It
+  extends ERPNext with restaurant-focused capabilities for order management,
+  table handling, and restaurant operations.
+
+
+  ## Deployment
+
+
+  Self-hosted, built on the ERPNext platform (Frappe framework).
+
+
+  ## Technology
+
+
+  TypeScript is the primary language used in this repository.
+
+
+  ## License
+
+
+  Open source (FOSS).
+
+
+  ## Pricing
+
+
+  Free and open source.
+brand: URY
+images: []
+updated_at: 2026-11-22 03:46

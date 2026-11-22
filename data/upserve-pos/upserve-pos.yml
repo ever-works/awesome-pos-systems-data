@@ -1,0 +1,58 @@
+name: Upserve POS
+description: Upserve POS is a restaurant management system that handles
+  tableside order management, floor plans, online payments, menu management,
+  employee timetables, CRM, and reporting on a single platform. It supports
+  multi-location sales analytics and offers tiered pricing per location per
+  month. The software is paid, with Core and Pro plans available. It is deployed
+  as a cloud-based SaaS solution for restaurants.
+source_url: https://upserve.com/
+category: Restaurant POS
+tags:
+  - Paid
+  - Cloud
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Upserve POS is a restaurant point-of-sale and management system designed for
+  restaurants of various sizes, from startups to enterprises.
+
+
+  ## Features
+
+
+  - Customer Management
+
+  - Offline Mode
+
+  - Employee Management
+
+  - Split Billing
+
+  - Tableside Ordering
+
+  - Sales Reporting
+
+  - Real Time
+
+  - Online Ordering
+
+
+  ## Pricing
+
+
+  - Core: $99 per location per month
+
+  - Pro: $249 per location per month
+
+
+  ## Deployment
+
+
+  Cloud-based SaaS deployment.
+brand: Upserve
+brand_logo_url: null
+images: []
+updated_at: 2026-11-22 03:46

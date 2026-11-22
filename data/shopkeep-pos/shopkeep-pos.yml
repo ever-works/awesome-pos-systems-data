@@ -1,0 +1,56 @@
+name: ShopKeep
+description: ShopKeep is a restaurant point-of-sale system described as
+  reliable, fast, and easy to use. It helps businesses make decisions, keep
+  customers happy, and support ordering. The system is paid and is suitable for
+  startups, SMBs, mid-market, and enterprise customers. It is deployed as a
+  cloud-based solution.
+source_url: https://www.shopkeep.com/
+category: Restaurant POS
+tags:
+  - Paid
+  - Cloud
+  - Integrated Payments
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ShopKeep is a restaurant POS system designed for restaurants and small
+  businesses.
+
+
+  ## Features
+
+
+  - Discount Management
+
+  - Multi Store
+
+  - Supplier Management
+
+  - Tip Management
+
+  - Integrated Payments
+
+  - Purchase Orders
+
+  - User Permissions
+
+  - Offline Mode
+
+
+  ## Pricing
+
+
+  Pricing details are available upon request; starting price is not publicly
+  listed.
+
+
+  ## Deployment
+
+
+  Cloud-based deployment.
+brand: ShopKeep
+brand_logo_url: null
+images: []
+updated_at: 2026-11-22 03:46

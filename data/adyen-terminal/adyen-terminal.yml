@@ -1,0 +1,54 @@
+name: Adyen Terminal
+description: Adyen Terminal is a payment-integrated POS solution that allows
+  businesses to accept in-person payments through Adyen's unified commerce
+  platform. It supports card, contactless, and mobile payments with APIs for
+  custom integrations.
+source_url: https://www.adyen.com/
+category: Payment-Integrated POS
+tags:
+  - paid
+  - api
+  - payment-integrated
+  - enterprise
+  - cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Adyen is a global payment company that provides in-person and online payment
+  processing. Its Terminal solution enables merchants to accept card-present
+  payments through payment terminals connected to Adyen's platform.
+
+
+  ## Features
+
+
+  - Credit, debit, and prepaid card acceptance
+
+  - Contactless and NFC payments
+
+  - Apple Pay, Google Pay support
+
+  - Unified commerce (online and in-person)
+
+  - APIs and SDKs for custom integrations
+
+  - Real-time transaction reporting
+
+
+  ## Deployment
+
+
+  Cloud-based with countertop and mobile hardware
+
+
+  ## Pricing
+
+
+
+  Interchange-plus pricing model with transaction fees; no monthly software
+  fees.
+brand: Adyen
+images: []
+updated_at: 2026-11-22 03:46

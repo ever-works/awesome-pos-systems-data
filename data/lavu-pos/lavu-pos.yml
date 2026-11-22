@@ -1,0 +1,56 @@
+name: Lavu
+description: Lavu is a restaurant point-of-sale software that tracks inventory,
+  manages online delivery of orders, accepts magnetic stripe and chip cards, and
+  provides detailed reports. It is priced at $59 per user per month billed
+  annually. The software is paid and cloud-based, suitable for startups through
+  enterprises.
+source_url: https://lavu.com/
+category: Restaurant POS
+tags:
+  - Paid
+  - Cloud
+  - Mobile POS
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Lavu restaurant POS software provides tools for restaurant businesses
+  including inventory tracking, online delivery order management, card payment
+  acceptance, and detailed reporting.
+
+
+  ## Features
+
+
+  - Offline Mode
+
+  - Customer Management
+
+  - Mobile POS
+
+  - Third Party Integrations
+
+  - Inventory Management
+
+  - Menu Management
+
+  - Point of Sale (POS)
+
+  - Reservations Management
+
+
+  ## Pricing
+
+
+  $59 per user per month, billed annually.
+
+
+  ## Deployment
+
+
+  Cloud-based deployment.
+brand: Lavu
+brand_logo_url: null
+images: []
+updated_at: 2026-11-22 03:46

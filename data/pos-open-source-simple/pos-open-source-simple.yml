@@ -1,0 +1,39 @@
+name: POS Open-Source Simple
+description: POS open-source project built with PHP, focused on simplicity with
+  straightforward point-of-sale functionality.
+source_url: https://github.com/pos-php/pos-open-source
+category: Open-Source POS
+tags:
+  - open-source
+  - php
+  - simple
+featured: false
+markdown: >
+  ## Overview
+
+
+  POS open-source project built with PHP, focused on simplicity for
+  point-of-sale operations.
+
+
+  ## Features
+
+
+  - Simple point-of-sale functionality
+
+  - Built with PHP
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+brand: null
+images: []
+updated_at: 2026-11-22 03:46

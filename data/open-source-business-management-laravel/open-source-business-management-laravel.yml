@@ -1,0 +1,49 @@
+name: Open-Source Business Management System
+description: Open-source business management system with ERP, POS, invoicing,
+  and CMS features. Laravel-based, Docker-ready. Still in active development.
+source_url: https://github.com/business-management/erp-pos
+category: Open-Source POS
+tags:
+  - open-source
+  - laravel
+  - docker
+  - erp
+  - cms
+featured: false
+markdown: >
+  ## Overview
+
+
+  Open-source business management system with ERP, POS, invoicing, and CMS
+  features, built with Laravel and Docker-ready.
+
+
+  ## Features
+
+
+  - ERP (Enterprise Resource Planning)
+
+  - Point of Sale (POS)
+
+  - Invoicing
+
+  - CMS (Content Management System)
+
+  - Laravel-based
+
+  - Docker-ready
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted (Docker-ready).
+brand: null
+images: []
+updated_at: 2026-11-22 03:46
