@@ -1,50 +1,110 @@
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: payment-integrated
-  name: "Payment-Integrated"
+  name: Payment Integrated
 - id: api
-  name: "API"
+  name: Api
 - id: small-business
-  name: "Small Business"
+  name: Small Business
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: e-commerce
-  name: "E-commerce"
+  name: E-commerce
 - id: inventory
-  name: "Inventory"
+  name: Inventory
 - id: hardware
-  name: "Hardware"
+  name: Hardware
 - id: app-market
-  name: "App Market"
+  name: App Market
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: restaurant-management
-  name: "Restaurant Management"
+  name: Restaurant Management
 - id: kitchen-display
-  name: "Kitchen Display"
+  name: Kitchen Display
 - id: mobile
-  name: "Mobile"
+  name: Mobile
 - id: paypal
-  name: "PayPal"
+  name: PayPal
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: erp
-  name: "ERP"
+  name: Erp
 - id: gpl
-  name: "GPL"
+  name: GPL
 - id: restaurant
-  name: "Restaurant"
+  name: Restaurant
 - id: ipad
-  name: "iPad"
+  name: iPad
 - id: cloud
-  name: "Cloud"
+  name: Cloud
 - id: retail
-  name: "Retail"
+  name: Retail
 - id: on-premise
-  name: "On-Premise"
+  name: On Premise
 - id: windows
-  name: "Windows"
+  name: Windows
+- id: cloud-based
+  name: Cloud Based
+- id: bitcoin
+  name: Bitcoin
+- id: restaurant-pos
+  name: Restaurant POS
+- id: omnichannel
+  name: Omnichannel
+- id: ai-powered
+  name: AI Powered
+- id: multi-location
+  name: Multi Location
+- id: laravel
+  name: Laravel
+- id: vuejs
+  name: Vue.js
+- id: php
+  name: Php
+- id: mobile-pos
+  name: Mobile POS
+- id: electron
+  name: Electron
+- id: react
+  name: React
+- id: typescript
+  name: Typescript
+- id: desktop
+  name: Desktop
+- id: docker
+  name: Docker
+- id: cms
+  name: Cms
+- id: hospitality
+  name: Hospitality
+- id: erpnext
+  name: Erpnext
+- id: vuetify
+  name: Vuetify
+- id: simple
+  name: Simple
+- id: integrated-payments
+  name: Integrated Payments
+- id: pizza
+  name: Pizza
+- id: delivery
+  name: Delivery
+- id: customer-loyalty
+  name: Customer Loyalty
+- id: sms-marketing
+  name: SMS Marketing
+- id: javascript
+  name: Javascript
+- id: offline-first
+  name: Offline First
+- id: livewire
+  name: Livewire
+- id: inventory-management
+  name: Inventory Management
+- id: web-based
+  name: Web Based
